@@ -1,4 +1,4 @@
-#Qualtrics integration for JSPsych Response Time Test (RTT)
+# Qualtrics integration for JSPsych Response Time Test (RTT)
 
 ## Licence
 This website is licensed under the 
